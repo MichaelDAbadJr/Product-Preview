@@ -85,7 +85,7 @@ body {
 
   /*  for this project only */
   display: grid;
-  min-height: 100vh;
+  min-height: 100svh;
   place-content: center;
   margin: 1rem;
 }
