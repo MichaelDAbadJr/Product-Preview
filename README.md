@@ -16,12 +16,12 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
-<a href="https://junmike-blog-preview.netlify.app/" target="_blank">View Live Website</a>
+<a href="https://junmike-product-preview.netlify.app/" target="_blank">View Live Website</a>
 </br>
-<img src="https://raw.githubusercontent.com/MichaelDAbadJr/assets/refs/heads/main/blog-preview-cover.png" width="600">
+<img src="https://raw.githubusercontent.com/MichaelDAbadJr/assets/refs/heads/main/product-preview-cover.png" width="600">
 
 link to the repository -->
-<a href="https://github.com/MichaelDAbadJr/Blog-Preview-Card" target="_blank">Blog-Preview Repository</a>
+<a href="https://github.com/MichaelDAbadJr/Product-Preview" target="_blank">Product-Preview Repository</a>
 
 ## My process
 I used the figma design to extract measurements such as the font, text size, text weight, padding, margin, and gaps, etc. I Focused on scalability and making presets for fonts and defining :root css variables.
